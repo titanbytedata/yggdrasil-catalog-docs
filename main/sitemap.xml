@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/airbyte/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/airflow/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/cloudnative-pg/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/karpenter/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/tailscale/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/components/ebs-storage-class/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+    <url>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/components/namespace/</loc>
+         <lastmod>2025-04-03</lastmod>
+    </url>
+</urlset>
