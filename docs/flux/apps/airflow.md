@@ -1,14 +1,5 @@
 # Airflow Infrastructure
 
-- [Airflow Infrastructure](#airflow-infrastructure)
-  - [Base resources](#base-resources)
-  - [Components](#components)
-  - [Deploying Airflow](#deploying-airflow)
-  - [Okta Authentication](#okta-authentication)
-  - [Substitution Variables](#substitution-variables)
-    - [base](#base)
-    - [airflow](#airflow)
-
 This infrastructure component will deploy Airflow into Kubernetes clusters. The structure of this component is described below:
 
 ```bash

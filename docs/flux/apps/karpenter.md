@@ -1,13 +1,5 @@
 # Karpenter
 
-- [Karpenter](#karpenter)
-  - [Base resources](#base-resources)
-  - [Components](#components)
-  - [Deploying Karpenter](#deploying-karpenter)
-  - [Substitution Variables](#substitution-variables)
-    - [base](#base)
-    - [memgraph](#memgraph)
-
 This infrastructure component will deploy Karpenter into Kubernetes clusters. The structure of this component is described below:
 
 ```bash

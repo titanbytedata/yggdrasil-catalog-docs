@@ -89,4 +89,4 @@ nav:
       - flux/apps/tailscale.md
     - Components:
       - flux/components/ebs-storage-class.md
-      - flux/components/namespcae.md
+      - flux/components/namespace.md
