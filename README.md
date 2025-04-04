@@ -1,63 +1,42 @@
 <h1 align="center">
-  <a href="https://github.com/titanbytedata/yggdrasil-catalog">
+  <a href="https://github.com/titanbytedata/yggdrasil-catalog-docs">
     <!-- Please provide path to your logo here -->
-    <img src="docs/images/logo.svg" alt="Logo" width="100" height="100">
+    <img src="images/logo.svg" alt="Logo" width="100" height="100">
   </a>
+
+  Yggdrasil Catalog
 </h1>
 
 <div align="center">
-  Yggdrasil Catalog
-  <br />
-  <a href="#about"><strong>Explore the screenshots »</strong></a>
+  <a href="#about"><strong>What is the Yggdrasil Catalog?</strong></a>
   <br />
   <br />
-  <a href="https://github.com/titanbytedata/yggdrasil-catalog/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
+  <a href="https://github.com/titanbytedata/yggdrasil-catalog-docs/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   &#9881;
-  <a href="https://github.com/titanbytedata/yggdrasil-catalog/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
+  <a href="https://github.com/titanbytedata/yggdrasil-catalog-docs/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
   &#9881;
-  <a href="https://github.com/titanbytedata/yggdrasil-catalog/discussions">Ask a Question</a>
-  </div>
-
-
-<div align="center">
-<br />
-
-
-[![Project License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=flat-square)](LICENSE)
-
-
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/titanbytedata/yggdrasil-catalog/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
-[![code with love by Titan Byte Data](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-titanbytedata-ff1414.svg?style=flat-square)](https://github.com/titanbytedata)
-
+  <a href="https://github.com/titanbytedata/yggdrasil-catalog-docs/discussions">Ask a Question</a>
 </div>
 
-<details open="open">
-<summary>Table of Contents</summary>
-
-- [Yggdrasil Catalog](#project_name)
-  - [About](#about)
-    - [Built With](#built-with)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Roadmap](#roadmap)
-  - [Support](#support)
-  - [Project assistance](#project-assistance)
-  - [Contributing](#contributing)
-  - [Original Author](#original-author)
-  - [Contributors](#contributors)
-  - [Security](#security)
-  - [License](#license)
-  - [Acknowledgements](#acknowledgements)
-
-</details>
+- [About](#about)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Support](#support)
+- [Project assistance](#project-assistance)
+- [Contributing](#contributing)
+- [Original Author](#original-author)
+- [Contributors](#contributors)
+- [Security](#security)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
 ## About
-
-
 
 <table><tr><td>
 
@@ -135,11 +114,9 @@ If you want to say **thank you** or/and support active development of Yggdrasil 
 
 Together, we can make Yggdrasil Catalog **better**!
 
-
 ## Contributing
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
 
 Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
 
