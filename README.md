@@ -8,9 +8,6 @@
 </h1>
 
 <div align="center">
-  <a href="#about"><strong>What is the Yggdrasil Catalog?</strong></a>
-  <br />
-  <br />
   <a href="https://github.com/titanbytedata/yggdrasil-catalog-docs/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">Report a Bug</a>
   &#9881;
   <a href="https://github.com/titanbytedata/yggdrasil-catalog-docs/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">Request a Feature</a>
