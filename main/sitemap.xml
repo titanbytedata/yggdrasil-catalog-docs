@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/CODE_OF_CONDUCT/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/CODE_OF_CONDUCT/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/CONTRIBUTING/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/CONTRIBUTING/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/SECURITY/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/SECURITY/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/airbyte/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/flux/apps/airbyte/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/airflow/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/flux/apps/airflow/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/cloudnative-pg/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/flux/apps/cloudnative-pg/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/karpenter/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/flux/apps/karpenter/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/apps/tailscale/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/flux/apps/tailscale/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/components/ebs-storage-class/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/flux/components/ebs-storage-class/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
     <url>
-         <loc>https://titanbytedata.github.io/yggdrasil-catalog/main/flux/components/namespace/</loc>
+         <loc>https://titanbytedata.github.io/yggdrasil-catalog-docs/main/main/flux/components/namespace/</loc>
          <lastmod>2025-04-04</lastmod>
     </url>
 </urlset>
