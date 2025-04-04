@@ -1,7 +1,0 @@
-nav:
-  - Overview: index.md
-  - Flux:
-    - Apps:
-      - flux/apps/
-    - Components:
-      - flux/components/

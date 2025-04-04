@@ -31,7 +31,22 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
   features:
-    - navigation.tabs.sticky
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
   highlightjs: true
   hljs_languages:
     - yaml
@@ -63,3 +78,16 @@ markdown_extensions:
   - pymdownx.superfences
   - toc:
       permalink: true
+
+nav:
+  - Overview: index.md
+  - Flux:
+    - Apps:
+      - flux/apps/airbyte.md
+      - flux/apps/airflow.md
+      - flux/apps/cloudnative-pg.md
+      - flux/apps/karpenter.md
+      - flux/apps/tailscale.md
+    - Components:
+      - flux/components/ebs-storage-class.md
+      - flux/components/namespcae.md
