@@ -91,6 +91,6 @@ nav:
       - flux/components/ebs-storage-class.md
       - flux/components/namespace.md
   - Contributing:
-    - CONTRIBUTING.md
-    - "Code of Conduct": CODE_OF_CONDUCT.md
-    - Security: SECURITY.md
+    - contributing/index.md
+    - "Code of Conduct": contributing/code-of-conduct.md
+    - Security: contributing/security.md
