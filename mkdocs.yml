@@ -32,8 +32,6 @@ theme:
       quote: octicons/quote-16
   features:
     - announce.dismiss
-    - content.action.edit
-    - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.tooltips
@@ -80,8 +78,9 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Overview: index.md
+  - Home: index.md
   - Flux:
+    - flux/index.md
     - Apps:
       - flux/apps/airbyte.md
       - flux/apps/airflow.md
