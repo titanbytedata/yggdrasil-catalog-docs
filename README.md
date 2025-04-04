@@ -18,22 +18,6 @@
   <a href="https://github.com/titanbytedata/yggdrasil-catalog-docs/discussions">Ask a Question</a>
 </div>
 
-- [About](#about)
-  - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Project assistance](#project-assistance)
-- [Contributing](#contributing)
-- [Original Author](#original-author)
-- [Contributors](#contributors)
-- [Security](#security)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## About
