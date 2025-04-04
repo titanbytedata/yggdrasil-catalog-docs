@@ -1,10 +1,10 @@
-site_name: Yggdrasil Catalog
+site_name: Yggdrasil Catalog Docs
 docs_dir: docs/
 copyright: Copyright &copy; Titan Byte Data 2025
 site_author: Titan Byte Data
-site_url: https://titanbytedata.github.io/yggdrasil-catalog/
+site_url: https://titanbytedata.github.io/yggdrasil-catalog-docs/main/
 repo_name: yggdrasil-catalog
-repo_url: https://github.com/titanbytedata/yggdrasil-catalog
+repo_url: https://github.com/titanbytedata/yggdrasil-catalog-docs
 
 theme:
   name: material

@@ -4,7 +4,7 @@
     <img src="images/logo.svg" alt="Logo" width="100" height="100">
   </a>
 
-  Yggdrasil Catalog
+  Yggdrasil Catalog Docs
 </h1>
 
 <div align="center">
